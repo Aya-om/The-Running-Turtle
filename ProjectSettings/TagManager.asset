@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  - Enemy
+  - Obstacle
+  - Ground
+  - Heart
+  - GameOver
+  - Fire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Obstacle
+  - Enemy
+  - Coin
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3083438413
+    locked: 0
+  - name: obstacle
+    uniqueID: 872222743
+    locked: 0
+  - name: coin
+    uniqueID: 2123241699
+    locked: 0
+  - name: heart
+    uniqueID: 1427909375
+    locked: 0
+  - name: knife
+    uniqueID: 4172199915
+    locked: 0
+  - name: ground
+    uniqueID: 2085237035
+    locked: 0
